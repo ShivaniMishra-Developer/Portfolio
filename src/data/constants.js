@@ -5,8 +5,8 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+    "I am React JS Developer.Expert JavaScript coding skills and proficiency in developing single-page applications.Strong understanding of modern standards-based HTML, CSS, and JavaScript,Redux,ReactComfortable with Agile methodologies and version control (Git, Bitbucket, etc Demonstrated work experience throughout a complete software project delivery cycle.Focused, hardworking and team-oriented.",
+  github: "https://github.com/ShivaniMishra-Developer",
   resume:
     "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
   linkedin: "https://in.linkedin.com/in/shivani-mishra-7a7306b4",
