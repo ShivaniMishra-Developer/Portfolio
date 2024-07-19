@@ -140,14 +140,18 @@ const Contact = () => {
         >
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
-        <ContactForm onSubmit={handelSubmit}>
+        <ContactForm onSubmit={onSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
-          <ContactInput placeholder="Your Email" name="from_email" />
-          <ContactInput placeholder="Your Name" name="from_name" />
-          <ContactInput placeholder="Subject" name="subject" />
-          <ContactInputMessage placeholder="Message" name="message" rows={4} />
-          <ContactButton type="submit" value="Send" />
+          <ContactInput placeholder="Your Email" name="from_email" required/>
+          <ContactInput placeholder="Your Name" name="from_name" required />
+          <ContactInput placeholder="Subject" name="subject" required />
+          <ContactInputMessage placeholder="Message" name="message" rows={4} required/>
+          <ContactButton type="submit" value="Send" required/>
+          <span>{result}</span>
+
         </ContactForm>
+        <span>{result}</span>
+
       </Wrapper>
     </Container>
   );
