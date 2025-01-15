@@ -1,14 +1,14 @@
 export const Bio = {
   name: "Shivani Mishra",
   roles: [
-    " Frontend Developer",
+    "Senior UI Consultant",
     "Programmer",
   ],
   description:
     "I am React JS Developer.Expert JavaScript coding skills and proficiency in developing single-page applications.Strong understanding of modern standards-based HTML, CSS, and JavaScript,Redux,ReactComfortable with Agile methodologies and version control (Git, Bitbucket, etc Demonstrated work experience throughout a complete software project delivery cycle.Focused, hardworking and team-oriented.",
   github: "https://github.com/ShivaniMishra-Developer",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1c8jlTbp9j0WN5M0o3LbZqvlRYLHBnFnJ/view?usp=sharing",
   linkedin: "https://in.linkedin.com/in/shivani-mishra-7a7306b4",
   insta: "https://www.instagram.com/iamshivanimishra_?igsh=ZmNmN3dxajFxMWZh",
 };
@@ -104,28 +104,28 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://cdn.cutshort.io/public/companies/624ebd83f98cc7002714609d/logo-1649330949168-bitmap.png",
-    role: "Software Engineer",
-    company: "Bridgefix Technology",
-    date: "July 2024 - Present",
-    desc: "Bridgefix Technology is a global software development company helping companies/clients achieve their goals with world-class, industry-specific software solutions. We facilitate our clients in long term to empower new business opportunities, drive growth, and reduce costs. BridgeFix is a rapidly growing IT firm located in Indore, India. We started in September 2021 and in a short span we are 20+. Our team consists of highly experienced professionals with advanced technical skills. We have 30+ satisfied customers around the globe. Mainly we work in building web and mobile applications using Python/Django, AngularJS, ReactJS, NodeJS, Ruby on Rails, Android, iOS, and other JS frameworks.",
+    img: "https://media.licdn.com/dms/image/v2/C4D0BAQHEjgMQxbU8Ng/company-logo_200_200/company-logo_200_200/0/1638795643776/hayagreeva_consulting_logo?e=1744848000&v=beta&t=3TUETa8lG_voDlBxcClhDBZA6tY9QNo5Y_nxLzZ4Wiw",
+    role: "Senior. UI Consultant",
+    company: "Hayagreeva Consulting Private Limited",
+    date: "August 2024 - Present",
+    desc:"Hayagreeva Consulting (HCPL) provides Consulting, Implementation and Support services for Web Content Management and Digital Experience Management",
     skills: [
       "ReactJS",
       "Redux",
-      "NodeJs",
       "Material UI",
       "HTML",
       "CSS",
+      "Alpine",
+      "Typescript",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
   {
     id: 1,
     img:"https://media.licdn.com/dms/image/D560BAQFg_06Q2CHqtA/company-logo_200_200/0/1667038506653/mondogaming_logo?e=2147483647&v=beta&t=eU8gTpLnIx61E9JVnSK--bsIFxdlhpe1Kr-labvLP0Y",
     role: "Frontend Developer",
     company: "MondoGaming S.R.L",
-    date: "January 2024 - June 2024",
+    date: "January 2024 - July 2024",
     desc: "Mondogaming is a software provider for sportsbook platforms, projected in the B2B and B2C business. Already present in Africa, South America and Europe, with an expansion plan in Asia and the rest of the world.Mondogaming offers customizable Whitelabel and Turn-key solutions. The feature that sets us apart from the competition is that we are both suppliers and developers of our software, any customization becomes possible.Mondogaming is also working on last gambling certifications as  ADM (Italy)",
     skills: [
       "ReactJS",
@@ -136,7 +136,6 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
     id: 2,
@@ -154,10 +153,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
- 
-
 ];
 
 export const education = [
